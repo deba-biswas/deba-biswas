@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+![snake gif](https://github.com/deba-biswas/deba-biswas/blob/output/github-snake-dark.svg)
+  
+</div>
