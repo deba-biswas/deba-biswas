@@ -20,8 +20,8 @@
 
 ### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
 <div align="center">
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=deba-biswas&theme=dark&show_icons=true&locale=en" alt="deba-biswas" />
-<img align="center" width="400px" src="https://nirzak-streak-stats.vercel.app/?user=deba-biswas&theme=dark&hide_border=false" />
+<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=deba-biswas&theme=transparent&show_icons=true&hide_border=false&include_all_commits=true" alt="deba-biswas" />
+<img align="center" width="400px" src="https://nirzak-streak-stats.vercel.app/?user=deba-biswas&theme=transparent&hide_border=false" />
 </div>
 
 
