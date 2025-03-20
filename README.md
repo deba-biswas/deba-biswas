@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/deba-biswas/Animated-Emojis/blob/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> It's Debangshu Biswas.
+## Hi there <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> It's Debangshu Biswas.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <img src="https://github.com/deba-biswas/Animated-Emojis/blob/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> My Contributions:
+### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Dizzy.webp" alt="Dizzy" width="25" height="25" /> My Contributions:
 <div align="center">
   
 ![snake gif](https://github.com/deba-biswas/deba-biswas/blob/output/github-snake-dark.svg)
@@ -18,7 +18,7 @@
 </div>
 
 
-### <img src="https://github.com/deba-biswas/Animated-Emojis/blob/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
+### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
 <div align="center">
 <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=deba-biswas&theme=dark&show_icons=true&locale=en" alt="deba-biswas" />
 <img align="center" width="400px" src="https://nirzak-streak-stats.vercel.app/?user=deba-biswas&theme=dark&hide_border=false" />
@@ -43,7 +43,7 @@
 
 
 
-### <img src="https://github.com/deba-biswas/Animated-Emojis/blob/main/People/Busts%20In%20Silhouette.webp" alt="Silhouette" width="25" height="25" /> Socials:
+### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Busts%20In%20Silhouette.webp" alt="Silhouette" width="25" height="25" /> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/callme.debangshu) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.deba_biswas._) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debangshu-biswas) 
