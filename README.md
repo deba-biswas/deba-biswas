@@ -25,7 +25,7 @@
 </div>
 
 
-### <img src="https://github.com/deba-biswas/Animated-Emojis/blob/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools:
+### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools:
 
 <div>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
