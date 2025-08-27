@@ -8,6 +8,13 @@
 
 </div>
 
+### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
+
+<div align="center">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=deba-biswas&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="deba-biswas" />
+  <img align="center" height="250px" width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=deba-biswas&theme=highcontrast&hide_border=false" />
+</div>
+
 ### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools:
 
 <div>
