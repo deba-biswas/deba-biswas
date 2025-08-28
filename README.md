@@ -1,6 +1,6 @@
-## Hi there <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> It's Debangshu Biswas.
+## Hi there <img src=".github/Emojis/Waving Hand.webp" alt="Waving Hand" width="25" height="25" /> It's Debangshu Biswas.
 
-### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Dizzy.webp" alt="Dizzy" width="25" height="25" /> My Contributions:
+### <img src=".github/Emojis/Dizzy.webp" alt="Dizzy" width="25" height="25" /> My Contributions:
 
 <div align="center">
   
@@ -8,14 +8,14 @@
 
 </div>
 
-### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
+### <img src=".github/Emojis/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
 
 <div align="center">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=deba-biswas&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="deba-biswas" />
   <img align="center" height="250px" width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=deba-biswas&theme=highcontrast&hide_border=false" />
 </div>
 
-### <img src="https://github.com/deba-biswas/deba-biswas/blob/main/.github/Emojis/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools:
+### <img src=".github/Emojis/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools:
 
 <div>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -30,3 +30,11 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 <br />
+
+### <img src=".github/Emojis/Busts In Silhouette.webp" alt="Silhouette" width="25" height="25" /> Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/debangshubiswas" target="blank"><img align="center" src=".github/Icons/linkedin.svg" alt="debangshubiswas" height="30" width="30" /></a>
+<a href="https://instagram.com/_.deba_biswas._" target="blank"><img align="center" src=".github/Icons/instagram.svg" alt="_.deba_biswas._" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/deba_biswas" target="blank"><img align="center" src=".github/Icons/leetcode.png" alt="deba_biswas" height="30" width="30" /></a>
+</p>
