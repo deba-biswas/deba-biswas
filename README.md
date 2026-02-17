@@ -8,12 +8,16 @@
 
 </div>
 
+---
+
 ### <img src=".github/Emojis/Rocket.webp" alt="Rocket" width="25" height="25" /> GitHub Stats:
 
 <div align="center">
       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=highcontrast&fontFamily=&preferLogin=false">
       <img  alt="deba-biswas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/deba-biswas?cardType=github&theme=highcontrast&fontFamily=&preferLogin=false" />  </a>
 </div>
+
+---
 
 ### <img src=".github/Emojis/Laptop.webp" alt="Laptop" width="25" height="25" /> Languages and Tools:
 
@@ -36,6 +40,8 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 <br />
+
+---
 
 ### <img src=".github/Emojis/Busts In Silhouette.webp" alt="Silhouette" width="25" height="25" /> Connect with me:
 
