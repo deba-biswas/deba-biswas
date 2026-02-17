@@ -1,4 +1,5 @@
 ## Hi there <img src=".github/Emojis/Waving Hand.webp" alt="Waving Hand" width="25" height="25" /> It's Debangshu Biswas.
+### A Computer Science student and Linux enthusiast specializing in full-stack web development and cybersecurity. Focused on mastering the MERN stack and building secure, efficient software.
 
 ### <img src=".github/Emojis/Dizzy.webp" alt="Dizzy" width="25" height="25" /> My Contributions:
 
